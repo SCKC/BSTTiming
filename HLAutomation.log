@@ -1,0 +1,110 @@
+2025-03-05 15:24:46,735 INFO  console: logger done
+2025-03-05 15:24:47,458 INFO  console: Command Line version : 5.8.14-RELEASE
+2025-03-05 15:24:47,458 INFO  console: Preparing analysis...
+2025-03-05 15:24:47,469 INFO  console: Preparation stage completed.
+2025-03-05 15:24:47,469 INFO  console: Execution context initial
+2025-03-05 15:24:47,469 INFO  console: =================
+2025-03-05 15:24:47,469 INFO  console: Perl Command:null
+2025-03-05 15:24:47,469 INFO  console: Perl analyzer dir:/Users/rakskuma/Downloads/Highlight-Automation-Command/perl
+2025-03-05 15:24:47,469 INFO  console: Analysing...
+2025-03-05 15:24:47,469 INFO  console: Start discovering
+2025-03-05 15:24:47,469 INFO  highlight: perl/technos/find_technos.pl /Users/rakskuma/Downloads/BSTTiming-main/BSTTiming --output=/Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/discover --ignore= --ignorePath= --export=csv --nocrashprevent  
+2025-03-05 15:24:47,586 INFO  perl: out: Openning binary lib csv : /Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/discover/BinaryLibraries.csv
+2025-03-05 15:24:47,586 INFO  perl: out: Searching files ...
+2025-03-05 15:24:47,586 INFO  perl: out:   ==> 33% files resolved.
+2025-03-05 15:24:47,586 INFO  perl: out:   ==> 40% files resolved.
+2025-03-05 15:24:47,586 INFO  perl: out: Checking content of file with recognized extensions.
+2025-03-05 15:24:47,586 INFO  perl: out: --> 2/5 have been resolved.
+2025-03-05 15:24:47,586 INFO  perl: out: Checking content of 3 files with unrecognized extensions.
+2025-03-05 15:24:47,586 INFO  perl: out: --> 33% files processed
+2025-03-05 15:24:47,586 INFO  perl: out: --> 66% files processed
+2025-03-05 15:24:47,586 INFO  perl: out: --> 100% files processed
+2025-03-05 15:24:47,586 INFO  perl: out: --> 2/5 have been resolved.
+2025-03-05 15:24:47,586 INFO  perl: out: Checking content of file using context.
+2025-03-05 15:24:47,586 INFO  perl: out: --> 2/5 have been resolved.
+2025-03-05 15:24:47,586 INFO  perl: out: Running Perl Discoverer
+2025-03-05 15:24:47,586 INFO  perl: out: - Perl version: 5.034001
+2025-03-05 15:24:47,586 INFO  perl: out: - Perl location: perl
+2025-03-05 15:24:47,586 INFO  perl: out: @INC: perl/technos/../../../../Config perl/technos/../Lib perl/technos/.. /Users/rakskuma/Downloads/Highlight-Automation-Command/perl /Library/Perl/5.34/darwin-thread-multi-2level /Library/Perl/5.34 /Network/Library/Perl/5.34/darwin-thread-multi-2level /Network/Library/Perl/5.34 /Library/Perl/Updates/5.34.1 /System/Library/Perl/5.34/darwin-thread-multi-2level /System/Library/Perl/5.34 /System/Library/Perl/Extras/5.34/darwin-thread-multi-2level /System/Library/Perl/Extras/5.34
+2025-03-05 15:24:47,586 INFO  perl: out: HIGHLIGHT analyzer version : 5.8.14-RELEASE
+2025-03-05 15:24:47,586 INFO  perl: out: Set option output to /Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/discover
+2025-03-05 15:24:47,586 INFO  perl: out: [WARNING] option --ignore present on command line, but with missing value
+2025-03-05 15:24:47,586 INFO  perl: out: [WARNING] option --ignorePath present on command line, but with missing value
+2025-03-05 15:24:47,586 INFO  perl: out: Set option export to csv
+2025-03-05 15:24:47,586 INFO  perl: out: Set option nocrashprevent to ON
+2025-03-05 15:24:47,586 INFO  perl: out: WARNING : parameter  will be ignored !!
+2025-03-05 15:24:47,586 INFO  perl: out: WARNING : parameter  will be ignored !!
+2025-03-05 15:24:47,589 INFO  console: Start analyzing
+2025-03-05 15:24:47,591 INFO  console: Processing technos: CS
+2025-03-05 15:24:47,592 INFO  highlight: Processing: CS for 2 files
+2025-03-05 15:24:47,592 INFO  console: Processing: CS for 2 files
+2025-03-05 15:24:47,594 INFO  highlight: perl/Analyse.pl --dir-source=/Users/rakskuma/Downloads/BSTTiming-main/BSTTiming --nocrashprevent --app_type=exhaustive --dir-debug=/Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/analysis/debug --dir-output=/Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/analysis --ignore= --allowGeneratedCode --dir-dialog=/Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/analysis/CS-progession --language=CS --file-list=/Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/discover/listCS.txt --CloudReady --GreenIT --frameworks --o=CS.csv --KeywordScan=/Users/rakskuma/Downloads/cast.keyword.dotnet.1.0.0.xml
+2025-03-05 15:24:47,813 INFO  perl: out: cmd_line:--dir-source=/Users/rakskuma/Downloads/BSTTiming-main/BSTTiming --nocrashprevent --app_type=exhaustive --dir-debug=/Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/analysis/debug --dir-output=/Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/analysis --ignore= --allowGeneratedCode --dir-dialog=/Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/analysis/CS-progession --language=CS --file-list=/Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/discover/listCS.txt --CloudReady --GreenIT --frameworks --o=CS.csv --KeywordScan=/Users/rakskuma/Downloads/cast.keyword.dotnet.1.0.0.xml
+2025-03-05 15:24:47,814 INFO  perl: out: Analyse de Program.cs (1/2)
+2025-03-05 15:24:47,814 INFO  perl: out: Analyzer: CS -> AnaCS
+2025-03-05 15:24:47,814 INFO  perl: out: File = Program.cs ; size = 4287
+2025-03-05 15:24:47,814 INFO  perl: out: [KeywordScan::keywordXml] ERROR XML: XSD not found: file xml not validated /Users/rakskuma/Downloads/cast.keyword.dotnet.1.0.0.xml !
+2025-03-05 15:24:47,814 INFO  perl: out: Launching analyzer AnaCS
+2025-03-05 15:24:47,919 INFO  perl: out: Analyse de Properties/AssemblyInfo.cs (2/2)
+2025-03-05 15:24:47,919 INFO  perl: out: Analyzer: CS -> AnaCS
+2025-03-05 15:24:47,919 INFO  perl: out: File = Properties/AssemblyInfo.cs ; size = 1430
+2025-03-05 15:24:47,919 INFO  perl: out: Launching analyzer AnaCS
+2025-03-05 15:24:47,919 INFO  perl: out: Running Perl Analyzer
+2025-03-05 15:24:47,919 INFO  perl: out: - Perl version: 5.034001
+2025-03-05 15:24:47,919 INFO  perl: out: - Perl location: perl
+2025-03-05 15:24:47,919 INFO  perl: out: @INC: perl/../../../Config perl/Lib perl /Users/rakskuma/Downloads/Highlight-Automation-Command/perl /Library/Perl/5.34/darwin-thread-multi-2level /Library/Perl/5.34 /Network/Library/Perl/5.34/darwin-thread-multi-2level /Network/Library/Perl/5.34 /Library/Perl/Updates/5.34.1 /System/Library/Perl/5.34/darwin-thread-multi-2level /System/Library/Perl/5.34 /System/Library/Perl/Extras/5.34/darwin-thread-multi-2level /System/Library/Perl/Extras/5.34
+2025-03-05 15:24:47,919 INFO  perl: out: [framework] output file set to /Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/analysis//CS-20250305_1524.framework.csv.
+2025-03-05 15:24:47,919 INFO  perl: out: [CloudReady] output file set to /Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/analysis//CS-20250305_1524.CloudReady.csv.
+2025-03-05 15:24:47,919 INFO  perl: out: [GreenIT] output file set to /Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/analysis//CS-20250305_1524.GreenIT.csv.
+2025-03-05 15:24:47,919 INFO  perl: out: [KeywordScan::detection] output file set to /Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/analysis//CS-20250305_1524.KeywordScan.csv.
+2025-03-05 15:24:47,919 INFO  perl: out: HIGHLIGHT analyzer version : 5.8.14-RELEASE
+2025-03-05 15:24:47,919 INFO  perl: out: Project directory assumed to be : /Users/rakskuma/Downloads/BSTTiming-main/BSTTiming (from option --dir-source)
+2025-03-05 15:24:47,919 INFO  perl: out: ***** FrameWorkDetection *****
+2025-03-05 15:24:47,919 INFO  perl: out: [framework] external framework detection patterns loaded.
+2025-03-05 15:24:47,919 INFO  perl: out: Analyse de Program.cs (1/2)
+2025-03-05 15:24:47,919 INFO  perl: out: ORIGINAL FILE NAME = Program.cs
+2025-03-05 15:24:47,919 INFO  perl: out: [KeywordScan::keywordXml] Loading: /Users/rakskuma/Downloads/cast.keyword.dotnet.1.0.0.xml
+2025-03-05 15:24:47,919 INFO  perl: out: [KeywordScan::detection] Detecting keywordGroup: .Net Project Type
+2025-03-05 15:24:47,919 INFO  perl: out: [KeywordScan::detection] Detecting keywordGroup: .Net Version Checks
+2025-03-05 15:24:47,919 INFO  perl: out: Analyse de Properties/AssemblyInfo.cs (2/2)
+2025-03-05 15:24:47,919 INFO  perl: out: ORIGINAL FILE NAME = Properties/AssemblyInfo.cs
+2025-03-05 15:24:47,919 INFO  perl: out: Analyzing /Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/bin/Debug/BSTTiming.exe.config as xml...
+2025-03-05 15:24:47,920 INFO  perl: out: Analyzing /Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/BSTTiming.csproj ...
+2025-03-05 15:24:47,920 INFO  perl: out: Analyzing /Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/BSTTiming.csproj as xml...
+2025-03-05 15:24:47,920 INFO  perl: out: Analyzing /Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/App.config as xml...
+2025-03-05 15:24:47,920 INFO  perl: out: Loading /Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/BSTTiming.csproj
+2025-03-05 15:24:47,920 INFO  perl: out: [KeywordScan::detection] report: CSV [.Net Version Checks]
+2025-03-05 15:24:47,920 INFO  perl: out: [KeywordScan::detection] report: CSV [.Net Project Type]
+2025-03-05 15:24:47,926 INFO  highlight: Copy /Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/discover/BinaryLibraries.csv to /Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/analysisBinaryLibraries.csv
+2025-03-05 15:24:47,927 INFO  highlight: End analysis process : CSV results in /Users/rakskuma/Downloads/BSTTiming-main/HLTemporary/analysis
+2025-03-05 15:24:47,927 INFO  console: Analysis stage completed.
+2025-03-05 15:24:47,927 INFO  console: Uploading...
+2025-03-05 15:24:47,929 INFO  highlight: Upload start
+2025-03-05 15:24:48,810 INFO  console: Uploading file 'BinaryLibraries.csv' to application result id='1313631' with company [name='AmazonQ',id='33168'] and application [name='MultiApp',id=477519]
+2025-03-05 15:24:53,927 INFO  console: Uploading file 'CS-20250305_1524.csv' to application result id='1313631' with company [name='AmazonQ',id='33168'] and application [name='MultiApp',id=477519]
+2025-03-05 15:24:59,034 INFO  console: Uploading file 'CS-20250305_1524.ThirdParties.csv' to application result id='1313631' with company [name='AmazonQ',id='33168'] and application [name='MultiApp',id=477519]
+2025-03-05 15:25:04,144 INFO  console: Uploading file 'CS-20250305_1524.KeywordScan..Net Project Type.csv' to application result id='1313631' with company [name='AmazonQ',id='33168'] and application [name='MultiApp',id=477519]
+2025-03-05 15:25:09,150 INFO  highlight: CS-progession is not sent 
+2025-03-05 15:25:09,254 INFO  console: Uploading file 'CS-20250305_1524.KeywordScan..Net Version Checks.csv' to application result id='1313631' with company [name='AmazonQ',id='33168'] and application [name='MultiApp',id=477519]
+2025-03-05 15:25:14,362 INFO  console: Uploading file 'framework.validated.csv' to application result id='1313631' with company [name='AmazonQ',id='33168'] and application [name='MultiApp',id=477519]
+2025-03-05 15:25:19,368 INFO  highlight: debug is not sent 
+2025-03-05 15:25:19,475 INFO  console: Uploading file 'CS-20250305_1524.GreenIT.csv' to application result id='1313631' with company [name='AmazonQ',id='33168'] and application [name='MultiApp',id=477519]
+2025-03-05 15:25:24,586 INFO  console: Uploading file 'CS-20250305_1524.CloudReady.csv' to application result id='1313631' with company [name='AmazonQ',id='33168'] and application [name='MultiApp',id=477519]
+2025-03-05 15:25:29,691 INFO  console: Uploading submission for application result id='1313631' with company [name='AmazonQ',id='33168'] and application [name='MultiApp',id=477519]
+2025-03-05 15:25:29,695 INFO  highlight: Upload end
+2025-03-05 15:25:29,696 INFO  console: Upload stage completed.
+2025-03-05 15:25:29,696 INFO  console: Highlight automation completed successfully!
+2025-03-05 15:25:29,696 INFO  console: Package zip result ...
+2025-03-05 15:25:29,697 INFO  highlight: Zip result start
+2025-03-05 15:25:29,700 INFO  highlight: Writing file to zip : 
+2025-03-05 15:25:29,701 INFO  highlight: Writing file to zip : 
+2025-03-05 15:25:29,701 INFO  highlight: Writing file to zip : 
+2025-03-05 15:25:29,702 INFO  highlight: Writing file to zip : 
+2025-03-05 15:25:29,703 INFO  highlight: CS-progession is not sent 
+2025-03-05 15:25:29,703 INFO  highlight: Writing file to zip : 
+2025-03-05 15:25:29,704 INFO  highlight: Writing file to zip : 
+2025-03-05 15:25:29,704 INFO  highlight: Writing file to zip : 
+2025-03-05 15:25:29,704 INFO  highlight: Writing file to zip : 
+2025-03-05 15:25:29,705 INFO  highlight: debug is not sent 
+2025-03-05 15:25:29,706 INFO  highlight: Zip result end
+2025-03-05 15:25:29,706 INFO  console: Package zip result completed.

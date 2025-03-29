@@ -1,0 +1,20 @@
+#KeywordScan; .Net Project Type
+#Type; patternGroup
+#uuid;6f4979d9-030a-4a87-88d6-fe6dcdeb0bb7
+#start_date;20250305_1524
+#version_highlight;5.8.14-RELEASE
+
+FORMULA SECTION
+name;weight;sensitive;full_word;syntax
+.Net Console Application;1;0;0;valid;
+
+
+FILE SECTION
+Dat_FileName;Dat_AbortCause;.Net Console Application;
+/Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/BSTTiming.csproj;None;FALSE;
+/Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/Program.cs;None;FALSE;
+
+
+FORMULA RESULT
+name;logic;
+.Net Console Application;KO;

@@ -1,0 +1,14 @@
+#Info 
+# app_type;exhaustive
+# version_count;unspecified ( perl 5.34.1 darwin-thread-multi-2level )
+# app_version;undefined
+# base_name;CS
+# guid;undefined
+# start_date;20250305_1524
+# version_highlight;5.8.14-RELEASE
+# uuid;6f4979d9-030a-4a87-88d6-fe6dcdeb0bb7
+# csv_base_filename;CS
+section=CS
+Dat_FileName;Dat_Language;Dat_CRC;Dat_SHA256;Dat_AnalysisDate;Dat_AnalysisStatus;Dat_AbortCause;Dat_AnaModel;Dat_Lines;Nbr_Lines;Dat_ContextType;Id_008;Id_024;Id_033;Id_037;Id_041;Id_049;Id_061;Id_075;Id_078;Id_082;Id_083;Id_084;Id_102;Id_104;Id_105;Id_115;Id_116;Id_120;Id_137;Id_139;Id_142;Id_144;Id_155;Id_161;Id_164;Id_168;Id_211;Id_213;Id_214;Id_215;Id_219;Id_220;Id_228;Id_229;Id_232;Id_236;Id_244;Id_250;Id_251;Id_260;Id_264;Id_271;Id_275;Id_276;Id_291;Id_299;Id_304;Id_319;Id_335;Id_337;Id_348;Id_349;Id_350;Id_359;Id_363;Id_364;Id_371;Id_506;Id_520;Id_562;Id_709;Id_744;Id_745;Id_751;Id_752;Id_754;Id_767;Id_779;Id_782;Id_784;Id_786;Id_788;Id_790;Id_791;Id_809;Id_820;Id_844;Id_845;Id_846;Id_847;Id_848;Id_849;Id_850;Id_851;Id_852;Id_854;
+Program.cs;CS;1994888816;ed18b74f561a0174fb5dad1584ec8dec087f30b9a15d1b854d7974c5c39efc65;20250305152447;0;None;unspecified;145;145;;0;0;0;9;0;0;0;0;0;0;0;0;0;0;0;0;2;2;1;0;5;0;0;0;4;0;0;0;7;2;0;2;0;0;0;1;10;2;14;0;0;14;0;1;0;0;0;0;109;0;0;1;0;5;0;0;22;2;2;1;0;10;1;0;0;0;0;1;0;6;7;1;0;0;1;0;16;2;1;0;0;0;0;0;0;0;
+Properties/AssemblyInfo.cs;CS;1556492432;e81f6f1cd42446d206f5a9072b8a94f116a5513f1549bb0219616409aa8ed0c9;20250305152447;0;None;unspecified;36;36;;0;0;0;4;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15;0;0;17;0;0;0;0;0;0;15;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;

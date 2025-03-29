@@ -1,0 +1,13 @@
+#Framework
+# uuid;5123a459-f553-4acb-9f17-cb4c555a90fb
+# version_highlight;5.8.14-RELEASE
+# start_date;20250305_1524
+# dependencyMode;normal
+name;techno;deplvl;raw;min;max;module;module_version;scope;type;environment;pattern;description;editor;license;analyzer_status;artifact
+Microsoft.CSharp;CS;0;;;;;;;;csproj;;;;;TBC;/Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/BSTTiming.csproj;
+System.Core;CS;0;;;;;;;;csproj;;;;;TBC;/Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/BSTTiming.csproj;
+System.Xml.Linq;CS;0;;;;;;;;csproj;;;;;TBC;/Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/BSTTiming.csproj;
+System.Xml;CS;0;;;;;;;;csproj;;;;;TBC;/Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/BSTTiming.csproj;
+System.Data.DataSetExtensions;CS;0;;;;;;;;csproj;;;;;TBC;/Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/BSTTiming.csproj;
+System;CS;0;;;;;;;;csproj;;;;;TBC;/Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/BSTTiming.csproj;
+System.Data;CS;0;;;;;;;;csproj;;;;;TBC;/Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/BSTTiming.csproj;

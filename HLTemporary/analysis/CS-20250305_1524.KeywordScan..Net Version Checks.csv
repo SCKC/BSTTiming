@@ -1,0 +1,79 @@
+#KeywordScan; .Net Version Checks
+#Type; patternGroup
+#uuid;6f4979d9-030a-4a87-88d6-fe6dcdeb0bb7
+#start_date;20250305_1524
+#version_highlight;5.8.14-RELEASE
+
+FORMULA SECTION
+name;weight;sensitive;full_word;syntax
+.Net Framework v1.0;1;0;0;valid;
+.Net Framework v1.1;1;0;0;valid;
+.Net Framework v2.0;1;0;0;valid;
+.Net Framework v3.0;1;0;0;valid;
+.Net Framework v3.5;1;0;0;valid;
+.Net Framework v4.0;1;0;0;valid;
+.Net Framework v4.5;1;0;0;valid;
+.Net Framework v4.6;1;0;0;valid;
+.Net Framework v4.7;1;0;0;valid;
+.Net Framework v4.8;1;0;0;valid;
+.Net Core 1.0;1;0;0;valid;
+.Net Core 1.1;1;0;0;valid;
+.Net Core 2.0;1;0;0;valid;
+.Net Core 2.1;1;0;0;valid;
+.Net Core 2.2;1;0;0;valid;
+.Net Core 3.0;1;0;0;valid;
+.Net Core 3.1;1;0;0;valid;
+.NET 5;1;0;0;valid;
+.NET 6;1;0;0;valid;
+.NET 7;1;0;0;valid;
+.NET 8;1;0;0;valid;
+.NET 9;1;0;0;valid;
+.Net Standard 1.0;1;0;0;valid;
+.Net Standard 1.1;1;0;0;valid;
+.Net Standard 1.2;1;0;0;valid;
+.Net Standard 1.3;1;0;0;valid;
+.Net Standard 1.4;1;0;0;valid;
+.Net Standard 1.5;1;0;0;valid;
+.Net Standard 1.6;1;0;0;valid;
+.Net Standard 2.0;1;0;0;valid;
+.Net Standard 2.1;1;0;0;valid;
+
+
+FILE SECTION
+Dat_FileName;Dat_AbortCause;.NET 5;.NET 6;.NET 7;.NET 8;.NET 9;.Net Core 1.0;.Net Core 1.1;.Net Core 2.0;.Net Core 2.1;.Net Core 2.2;.Net Core 3.0;.Net Core 3.1;.Net Framework v1.0;.Net Framework v1.1;.Net Framework v2.0;.Net Framework v3.0;.Net Framework v3.5;.Net Framework v4.0;.Net Framework v4.5;.Net Framework v4.6;.Net Framework v4.7;.Net Framework v4.8;.Net Standard 1.0;.Net Standard 1.1;.Net Standard 1.2;.Net Standard 1.3;.Net Standard 1.4;.Net Standard 1.5;.Net Standard 1.6;.Net Standard 2.0;.Net Standard 2.1;
+/Users/rakskuma/Downloads/BSTTiming-main/BSTTiming/BSTTiming.csproj;None;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;
+
+
+FORMULA RESULT
+name;logic;
+.Net Framework v1.0;KO;
+.Net Framework v1.1;KO;
+.Net Framework v2.0;KO;
+.Net Framework v3.0;KO;
+.Net Framework v3.5;KO;
+.Net Framework v4.0;KO;
+.Net Framework v4.5;OK;
+.Net Framework v4.6;KO;
+.Net Framework v4.7;KO;
+.Net Framework v4.8;KO;
+.Net Core 1.0;KO;
+.Net Core 1.1;KO;
+.Net Core 2.0;KO;
+.Net Core 2.1;KO;
+.Net Core 2.2;KO;
+.Net Core 3.0;KO;
+.Net Core 3.1;KO;
+.NET 5;KO;
+.NET 6;KO;
+.NET 7;KO;
+.NET 8;KO;
+.NET 9;KO;
+.Net Standard 1.0;KO;
+.Net Standard 1.1;KO;
+.Net Standard 1.2;KO;
+.Net Standard 1.3;KO;
+.Net Standard 1.4;KO;
+.Net Standard 1.5;KO;
+.Net Standard 1.6;KO;
+.Net Standard 2.0;KO;
+.Net Standard 2.1;KO;

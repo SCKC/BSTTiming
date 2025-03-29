@@ -1,0 +1,13 @@
+2025-03-05_15:24:47; list; 0; 0; listname; CS
+2025-03-05_15:24:47; list; 0; 0; nbfiles; 2
+2025-03-05_15:24:47; file; 0; 0; filename; Program.cs
+2025-03-05_15:24:47; file; 0; 0; lines; 145
+2025-03-05_15:24:47; file; 0; 0; basename; Program.cs
+2025-03-05_15:24:47; file; 0; 0; size; 4287
+2025-03-05_15:24:47; file; 0; 0; abort; 1_0
+2025-03-05_15:24:47; file; 1; 0; filename; Properties/AssemblyInfo.cs
+2025-03-05_15:24:47; file; 1; 0; lines; 36
+2025-03-05_15:24:47; file; 1; 0; basename; AssemblyInfo.cs
+2025-03-05_15:24:47; file; 1; 0; size; 1430
+2025-03-05_15:24:47; file; 1; 0; abort; 1_0
+2025-03-05_15:24:47; list; 0; 0; info; 0
